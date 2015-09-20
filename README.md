@@ -1,4 +1,4 @@
 Implement some outlier detection algorithms in Python
-*LOF
-*COF
-*ODIN
+* LOF
+* COF
+* ODIN
